@@ -17,7 +17,7 @@ function App(){
   // state는 변경되면 HTML이 자동으로 재 랜더링 된다.
 
   // function chageTitle(){
-  //   titleChange( ['여자 코드 추천', '남자 자켓 추천','남자 어린이 코트 추천'] );
+  //   titleChange( ['여자 코드 추천', '남자 자켓 추천','남자 어린이 코트 추천'] ); ss
   // } ; 
   function chageTitle(){
     // var newArray = title; //x deep copy 필요
@@ -26,7 +26,7 @@ function App(){
     titleChange(newArray );
   } ;
 
-  let posts = '강남 고기 맛집';  
+  let posts = '강남 고기 맛집!';  
 
   return (
     <div className="App">
