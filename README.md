@@ -69,6 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+<<<<<<< HEAD
 ### asdfasdf
 
 asdfasdf
+=======
+### test
+
+테스트용 readme 작성
+>>>>>>> 5a6f3591092289544e99b4726801387abe09d428
